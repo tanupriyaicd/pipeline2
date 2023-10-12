@@ -11,8 +11,6 @@ const minus=()=>{
 }
 
 
- decrease=()=>{
-setCount(count-1);
 }
 const increase=()=>{
   setCount(count+1);
