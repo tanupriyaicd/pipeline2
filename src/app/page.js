@@ -11,7 +11,7 @@ const minus=()=>{
 }
 
 
-const decrease=()=>{
+ decrease=()=>{
 setCount(count-1);
 }
 const increase=()=>{
